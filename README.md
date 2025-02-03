@@ -1,7 +1,5 @@
 ![image info](./MrPaintBanner.png)
 
-## Mr. Paint
-
 Mr. Paint is a simple ATASCII text screen editor.  It is designed to allow the creation of single screens (40 columns by 24 rows).  It is not designed for the creation of ATASCII movies.  In other words, it does not record or save cursor movements or other active screen manipulation keystrokes.  It is suitable for creating text screens with ATASCII or ASCII content.
 
 Mr. Paint was developed using the C language and compiled with CC65.  The user interface highly utilizes my A8CLibrary (Atari 8 Bit C Library) TUI (Text User Interface) routines.
