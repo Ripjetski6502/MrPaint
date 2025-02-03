@@ -29,3 +29,6 @@ The user interface follows typical modern day interface standards making usage e
 -Simple Operation
 Mr. Paint was designed without a lot of fluff, to do one thing, using modern interface elements, and minimal keystroke combinations to remember, making it easy to use.
 
+
+Note: Block operations are still in development.  Source will be released when that is complete.
+
