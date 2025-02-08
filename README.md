@@ -6,7 +6,7 @@ Mr. Paint is a simple ATASCII text screen editor.  It is designed to allow the c
 
 Mr. Paint was developed using the C language and compiled with CC65.  The user interface highly utilizes my A8CLibrary (Atari 8 Bit C Library) TUI (Text User Interface) routines.
 
-### Mr. Paint’s core features:
+### Mr. Paint’s Core Features:
 
 -ATASCII Save
 ATASCII saves utilize carriage returns at the end of each line, with or without trimmed lines, and with or without a preceding clear character.
