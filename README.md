@@ -1,4 +1,4 @@
-![image info](./MrPaintBanner.png)
+![image info](./MrPaintBannerR2.png)
 
 ## Mr. Paint
 
