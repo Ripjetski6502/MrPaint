@@ -9,6 +9,7 @@ Mr. Paint was developed using the C language and compiled with CC65.  The user i
 ### Mr. Paint’s Core Features:
 
 -ATASCII Save
+
 ATASCII saves utilize carriage returns at the end of each line, with or without trimmed lines, and with or without a preceding clear character.
 
 -Sized Save
