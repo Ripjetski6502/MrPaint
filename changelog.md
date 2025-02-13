@@ -1,8 +1,8 @@
 **2025.02.12 (1.11)**
 
--Fix missing terminator in file load name input variable.
--Fixed broken load from 1.10 (over optimized ATASCII to internal routine).
--Fixed ESC char as 1st byte when loading file with newline as first line.
+- Fix missing terminator in file load name input variable.
+- Fixed broken load from 1.10 (over optimized ATASCII to internal routine).
+- Fixed ESC char as 1st byte when loading file with newline as first line.
 
 **2025.02.12 (1.10)**
 
