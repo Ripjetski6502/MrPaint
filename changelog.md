@@ -3,6 +3,7 @@
 - Fix missing terminator in file load name input variable.
 - Fixed broken load from 1.10 (over optimized ATASCII to internal routine).
 - Fixed ESC char as 1st byte when loading file with newline as first line.
+- Set X,Y references to 0 based for continuity with "zero"ing cursor position.
 
 **2025.02.12 (1.10)**
 
