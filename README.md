@@ -1,7 +1,5 @@
 ![image info](./MrPaintBannerR2.png)
 
-## Temporarily pulled the releases and binary.  Uncovered a library bug, and a loading issue that needs to be resolved.  Between the two, inconsistent saves and loads were occurring.  One issue remains at the moment which is dealing with the heart character in the middle of a line during load - it acts like a newline.
-
 ## Mr. Paint
 
 Mr. Paint is a simple ATASCII text screen editor.  It is designed to allow the creation of single screens (40 columns by 24 rows).  It is not designed for the creation of ATASCII movies.  In other words, it does not record or save cursor movements or other active screen manipulation keystrokes.  It is suitable for creating text screens with ATASCII or ASCII content.
