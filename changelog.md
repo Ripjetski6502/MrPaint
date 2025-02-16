@@ -1,3 +1,15 @@
+**2025.02.16 (1.20)**
+
+- Fix bad mapping of Control-w.  Remapped wipe keystrokes.  Now using Shift-Control-W, F, R.
+- Disallow unused Control-2 through 9 and 0.
+- Removed handling of special screen control characters.  Not displayable unless escaped.
+- Added Get Char at cursor, and Put Char at cursor for single character copy/paste. (Shift-Control-G/P)
+- Added Inverse toggle of character at cursor.
+- Rewrote Load and Save routines.
+- Fixed hang after load if end line marker is set when load begins.
+- Fixed load not resetting end line marker to off when load complete.
+- Fixed user manual references of ENTER to RETURN.
+
 **2025.02.12 (1.11)**
 
 - Fix missing terminator in file load name input variable.
