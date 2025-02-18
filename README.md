@@ -34,7 +34,7 @@ The user interface follows typical modern day interface standards making usage e
 
 -Useful Functions
 
-Many functions are included to help speed up the drawing process.  Such as: Wiping a line to the left or right, or the entire line; inspecting a character; centering a row; filling a column or row with a character; filling the background, etc.
+Many functions are included to help speed up the drawing process.  Such as: Wiping a line to the left or right, or the entire line; inspecting a character; centering a row; filling a column or row with a character; filling the background, many block operations, etc.
 
 -Simple Operation
 
