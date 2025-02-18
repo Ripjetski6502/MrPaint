@@ -1,3 +1,9 @@
+**2025.02.17 (1.30)**
+- Added support back in for verified terminal displayable specials: ESC, Up, Down, Left, Right, Inv Up, Inv Down, Inv Left, Inv Right, Inv Tab, Inv Del
+- Added block selection toggle
+- Added block status to status dialog
+- Added block operations: clear, inverse, fill, mirror, flip (upside down)
+
 **2025.02.16 (1.20)**
 
 - Fix bad mapping of Control-w.  Remapped wipe keystrokes.  Now using Shift-Control-W, F, R.
