@@ -1,3 +1,13 @@
+**2025.02.21 (1.37)**
+- Correct block size calculation for block selection to prevent selection larger than 1/2 screen in either direction
+- Added block copy, and block paste
+- Rewrote block inverse to improve performance, and reduce code size.
+- Added ability to change background and text color
+- Added non-ctrl up/down/left/right to block selection for easier selection.
+- Changed editor nav from ctrl+up/down/left/right to up/down/left/right (minus/equal/plus/asterisk)
+- Remapped option and status dialogs - now OPTION and SELECT respectively
+- Reorganization of user manual, improvements to text, and improvements to table of contents.
+
 **2025.02.17 (1.30)**
 - Added support back in for verified terminal displayable specials: ESC, Up, Down, Left, Right, Inv Up, Inv Down, Inv Left, Inv Right, Inv Tab, Inv Del
 - Added block selection toggle
