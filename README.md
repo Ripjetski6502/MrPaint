@@ -40,7 +40,9 @@ Many functions are included to help speed up the drawing process.  Such as: Wipi
 
 Mr. Paint was designed without a lot of fluff, to do one thing, using modern interface elements, and minimal keystroke combinations to remember, making it easy to use.
   
-Note: Block operations are still in development.  Source will be released when that is complete.
+Note: The binary distributed with version 1.40 that supports PC Link and FujiNet drives was built against a patched version of CC65's atari.lib that fixes the DPCLx: recognition in the fopen() function.  You can build Mr. Paint from source without the patched version of the library, but DPCL drives will yield a device error (except for Directory operations).
+
+Note: The source code will be released sometime in March 2025.
 #  
 ### License
 
