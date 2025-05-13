@@ -22,7 +22,7 @@ Raw saves save the entire screen without a clear character, carriage returns (ne
 
 -Disk Directory
 
-The disk directory function provides a means to see the files on attached disks.  It has the ability to specify file masks to refine file searches.
+The disk directory function provides a means to see the files on attached disks.  It has the ability to specify file masks to refine file searches.  FujiNet and PCL drives are supported from 1 to 9.
 
 -Print Screen
 
@@ -42,7 +42,7 @@ Mr. Paint was designed without a lot of fluff, to do one thing, using modern int
   
 Note: The binary distributed with version 1.40 that supports PC Link and FujiNet drives was built against a patched version of CC65's atari.lib that fixes the DPCLx: recognition in the fopen() function.  You can build Mr. Paint from source without the patched version of the library, but DPCL drives will yield a device error (except for Directory operations).
 
-Note: The source code will be released sometime in March 2025.
+Note: The source code will be released sometime in May 2025.
 #  
 ### License
 
